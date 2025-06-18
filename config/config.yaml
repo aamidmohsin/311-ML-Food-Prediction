@@ -1,0 +1,15 @@
+# Example configuration file for 311-ML-Food-Prediction
+# Add your project-specific settings here
+
+# data:
+#   raw_data_path: data/raw/student_survey_responses.csv
+#   splits_dir: data/raw_splits/
+#   output_dir: reports/
+
+# model:
+#   forest_params:
+#     n_estimators: 100
+#     max_depth: 10
+#
+# prediction:
+#   threshold: 0.5 

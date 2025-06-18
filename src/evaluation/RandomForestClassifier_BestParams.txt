@@ -1,0 +1,1303 @@
+Model: RandomForestClassifier with Interaction Features
+Best Params: {'bootstrap': True, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100, 'random_state': 42}
+
+Loaded dataset with 1644 rows
+Starting seed testing experiment
+Testing 91 seeds from 10 to 100
+Train/Val/Test ratios: 0.7/0.15/0.15
+
+=== Running process with SEED = 10 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 11 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.87%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 91.87%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 12 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.24%
+Manual Prediction Accuracy: 83.13%
+
+Validation Accuracy: 90.24%
+Test Accuracy: 83.13%
+
+=== Running process with SEED = 13 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 14 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.62%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 88.62%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 15 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 87.95%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 87.95%
+
+=== Running process with SEED = 16 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 17 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 85.37%
+Manual Prediction Accuracy: 88.76%
+
+Validation Accuracy: 85.37%
+Test Accuracy: 88.76%
+
+=== Running process with SEED = 18 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 19 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 20 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 92.68%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 92.68%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 21 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.24%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 90.24%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 22 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 93.09%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 93.09%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 23 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 93.50%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 93.5%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 24 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 25 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 26 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.87%
+Manual Prediction Accuracy: 85.54%
+
+Validation Accuracy: 91.87%
+Test Accuracy: 85.54%
+
+=== Running process with SEED = 27 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 85.94%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 85.94%
+
+=== Running process with SEED = 28 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.80%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 87.8%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 29 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 30 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 31 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 86.35%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 86.35%
+
+=== Running process with SEED = 32 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.24%
+Manual Prediction Accuracy: 86.75%
+
+Validation Accuracy: 90.24%
+Test Accuracy: 86.75%
+
+=== Running process with SEED = 33 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 34 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.62%
+Manual Prediction Accuracy: 88.76%
+
+Validation Accuracy: 88.62%
+Test Accuracy: 88.76%
+
+=== Running process with SEED = 35 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 36 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 87.95%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 87.95%
+
+=== Running process with SEED = 37 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 38 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.87%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 91.87%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 39 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 40 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.62%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 88.62%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 41 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 92.37%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 92.37%
+
+=== Running process with SEED = 42 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 84.74%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 84.74%
+
+=== Running process with SEED = 43 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 85.37%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 85.37%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 44 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 45 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 91.57%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 91.57%
+
+=== Running process with SEED = 46 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.06%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 91.06%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 47 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 90.36%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 90.36%
+
+=== Running process with SEED = 48 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 49 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 50 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 86.35%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 86.35%
+
+=== Running process with SEED = 51 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 52 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 53 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.06%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 91.06%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 54 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 84.55%
+Manual Prediction Accuracy: 92.77%
+
+Validation Accuracy: 84.55%
+Test Accuracy: 92.77%
+
+=== Running process with SEED = 55 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.87%
+Manual Prediction Accuracy: 87.55%
+
+Validation Accuracy: 91.87%
+Test Accuracy: 87.55%
+
+=== Running process with SEED = 56 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 85.77%
+Manual Prediction Accuracy: 90.36%
+
+Validation Accuracy: 85.77%
+Test Accuracy: 90.36%
+
+=== Running process with SEED = 57 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 91.16%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 91.16%
+
+=== Running process with SEED = 58 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.87%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 91.87%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 59 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 60 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.62%
+Manual Prediction Accuracy: 87.55%
+
+Validation Accuracy: 88.62%
+Test Accuracy: 87.55%
+
+=== Running process with SEED = 61 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 62 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.65%
+Manual Prediction Accuracy: 86.75%
+
+Validation Accuracy: 90.65%
+Test Accuracy: 86.75%
+
+=== Running process with SEED = 63 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 64 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 85.77%
+Manual Prediction Accuracy: 90.76%
+
+Validation Accuracy: 85.77%
+Test Accuracy: 90.76%
+
+=== Running process with SEED = 65 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.80%
+Manual Prediction Accuracy: 87.95%
+
+Validation Accuracy: 87.8%
+Test Accuracy: 87.95%
+
+=== Running process with SEED = 66 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.18%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 86.18%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 67 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 90.36%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 90.36%
+
+=== Running process with SEED = 68 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.18%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 86.18%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 69 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 70 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 85.77%
+Manual Prediction Accuracy: 86.75%
+
+Validation Accuracy: 85.77%
+Test Accuracy: 86.75%
+
+=== Running process with SEED = 71 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 87.55%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 87.55%
+
+=== Running process with SEED = 72 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.65%
+Manual Prediction Accuracy: 87.95%
+
+Validation Accuracy: 90.65%
+Test Accuracy: 87.95%
+
+=== Running process with SEED = 73 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 74 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 75 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 76 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 77 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 88.35%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 88.35%
+
+=== Running process with SEED = 78 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 91.57%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 91.57%
+
+=== Running process with SEED = 79 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.59%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 86.59%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 80 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 87.55%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 87.55%
+
+=== Running process with SEED = 81 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.02%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 89.02%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 82 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.59%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 86.59%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 83 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.80%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 87.8%
+Test Accuracy: 89.56%
+
+=== Running process with SEED = 84 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 91.97%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 91.97%
+
+=== Running process with SEED = 85 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 93.98%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 93.98%
+
+=== Running process with SEED = 86 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 86.75%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 86.75%
+
+=== Running process with SEED = 87 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 85.14%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 85.14%
+
+=== Running process with SEED = 88 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 84.55%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 84.55%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 89 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 88.76%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 88.76%
+
+=== Running process with SEED = 90 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.84%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 89.84%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 91 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 89.43%
+Manual Prediction Accuracy: 85.54%
+
+Validation Accuracy: 89.43%
+Test Accuracy: 85.54%
+
+=== Running process with SEED = 92 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 90.24%
+Manual Prediction Accuracy: 91.57%
+
+Validation Accuracy: 90.24%
+Test Accuracy: 91.57%
+
+=== Running process with SEED = 93 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.40%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 87.4%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 94 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.80%
+Manual Prediction Accuracy: 87.15%
+
+Validation Accuracy: 87.8%
+Test Accuracy: 87.15%
+
+=== Running process with SEED = 95 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 89.16%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 89.16%
+
+=== Running process with SEED = 96 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 87.80%
+Manual Prediction Accuracy: 89.96%
+
+Validation Accuracy: 87.8%
+Test Accuracy: 89.96%
+
+=== Running process with SEED = 97 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 88.21%
+Manual Prediction Accuracy: 90.36%
+
+Validation Accuracy: 88.21%
+Test Accuracy: 90.36%
+
+=== Running process with SEED = 98 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 86.99%
+Manual Prediction Accuracy: 91.97%
+
+Validation Accuracy: 86.99%
+Test Accuracy: 91.97%
+
+=== Running process with SEED = 99 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.46%
+Manual Prediction Accuracy: 85.94%
+
+Validation Accuracy: 91.46%
+Test Accuracy: 85.94%
+
+=== Running process with SEED = 100 ===
+Split sizes - Train: 1149, Val: 246, Test: 249
+Generating training statistics...
+Generating lookup tables...
+Training the model...
+Evaluating the model...
+
+Model output:
+Manual Prediction Accuracy: 91.06%
+Manual Prediction Accuracy: 89.56%
+
+Validation Accuracy: 91.06%
+Test Accuracy: 89.56%
+
+Validation Accuracy Statistics:
+  Lowest: 84.55%
+  Highest: 93.50%
+  Average: 88.90%
+  90%+ Count: 23/91
+
+Test Accuracy Statistics:
+  Lowest: 83.13%
+  Highest: 93.98%
+  Average: 88.96%
+  90%+ Count: 22/91
+
+=== FINAL SUMMARY ===
+Best Validation Accuracy: 93.50%
+Best Test Accuracy: 93.98%
+Average Validation Accuracy: 88.90%
+Average Test Accuracy: 88.96%
+Seeds with 90%+ Validation: 23
+Seeds with 90%+ Test: 22
+
+Experiment completed successfully!
